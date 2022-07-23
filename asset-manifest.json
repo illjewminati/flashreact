@@ -1,7 +1,7 @@
 {
   "main.css": "/flashreact/static/css/main.754ac4b5.chunk.css",
-  "main.js": "/flashreact/static/js/main.1a76dcb0.chunk.js",
-  "main.js.map": "/flashreact/static/js/main.1a76dcb0.chunk.js.map",
+  "main.js": "/flashreact/static/js/main.34d03b28.chunk.js",
+  "main.js.map": "/flashreact/static/js/main.34d03b28.chunk.js.map",
   "static/js/1.dca74a03.chunk.js": "/flashreact/static/js/1.dca74a03.chunk.js",
   "static/js/1.dca74a03.chunk.js.map": "/flashreact/static/js/1.dca74a03.chunk.js.map",
   "static/css/2.0e43170d.chunk.css": "/flashreact/static/css/2.0e43170d.chunk.css",
@@ -15,10 +15,10 @@
   "static/media/twi.svg": "/flashreact/static/media/twi.b5f2b34d.svg",
   "static/media/you.svg": "/flashreact/static/media/you.992b3b4f.svg",
   "static/media/logo-2.svg": "/flashreact/static/media/logo-2.4a04060c.svg",
-  "static/media/banar.png": "/flashreact/static/media/banar.061c7e5c.png",
+  "static/media/banar.png": "/flashreact/static/media/banar.d1d2e041.png",
   "static/css/main.754ac4b5.chunk.css.map": "/flashreact/static/css/main.754ac4b5.chunk.css.map",
   "static/css/2.0e43170d.chunk.css.map": "/flashreact/static/css/2.0e43170d.chunk.css.map",
   "index.html": "/flashreact/index.html",
-  "precache-manifest.b94677b06593cdc7e4764de5554a5b71.js": "/flashreact/precache-manifest.b94677b06593cdc7e4764de5554a5b71.js",
+  "precache-manifest.1d0c38ad02605917262c4270bfae38d4.js": "/flashreact/precache-manifest.1d0c38ad02605917262c4270bfae38d4.js",
   "service-worker.js": "/flashreact/service-worker.js"
 }
