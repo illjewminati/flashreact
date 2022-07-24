@@ -36,7 +36,7 @@ function Roadmap() {
                         </li>
                         <li className="map_item" data-aos="fade-right" data-aos-duration="1000">
                             <h3>Q4 2022</h3>
-                            <p>Launch "TBD" Dao & Staking</p>
+                            <p>Deploy Phase II</p>
                         </li>
                     </ul>
                 </div>
