@@ -18,7 +18,8 @@ function TOKENOMICS() {
                         <div className="token_box">
                             <p>$TBD</p>
                             <h4>TOKEN SYMBOL</h4>
-                            <p>2% MARKETING <br />
+                            <p>BUY TAX
+                                2% MARKETING <br />
                                 1% FUTURE UTILITY<br />
                                 1% AUTO LP <br />
                                 2% DEVELOPMENT</p>
@@ -28,7 +29,8 @@ function TOKENOMICS() {
                         <div className="token_box">
                             <p>ETHEREUM ERC20</p>
                             <h4>NETWORK</h4>
-                            <p>5% MARKETING <br />
+                            <p>SELL TAX
+                                5% MARKETING <br />
                                 1% FUTURE UTILITY<br />
                                 1% AUTO LP<br />
                                 2% DEVELOPMENT</p>
