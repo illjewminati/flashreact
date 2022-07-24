@@ -7,7 +7,7 @@ function Roadmap() {
             <div className="container">
                 <div className="mission_content" data-aos="fade-right" data-aos-duration="1000" >
                     <h2>THE MISSION</h2>
-                    <p>To simply evolve the way cryptocurrencies are traded. By
+                    <p>Simply to evolve the way cryptocurrencies are traded. By
                         seamlessly connecting users to the
                         utility through our dapps, we make
                         these tools accessible, opening up
