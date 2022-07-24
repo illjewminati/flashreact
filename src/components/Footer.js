@@ -27,12 +27,10 @@ function Foooter() {
                         </a>
                     </div>
                     <ul className="foot_menu">
-                        <li><a href="#">@TBD</a></li>
-                        <li><a href="#">@TBD</a></li>
-                        <li><a href="#">Terms and conditions</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Documentation</a></li>
-                        <li><a href="#">Audit</a></li>
+                        <li><a href="#">TERMS AND CONDITIONS</a></li>
+                        <li><a href="#">PRIVACY POLICY</a></li>
+                        <li><a href="#">LITEPAPER</a></li>
+                        <li><a href="#">AUDIT</a></li>
                     </ul>
                 </div>
             </div>
