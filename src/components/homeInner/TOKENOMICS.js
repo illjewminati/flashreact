@@ -19,10 +19,10 @@ function TOKENOMICS() {
                             <p>$TBD</p>
                             <h4>TOKEN SYMBOL</h4>
                             <p>BUY TAX
-                                2% MARKETING <br />
-                                1% FUTURE UTILITY<br />
-                                1% AUTO LP <br />
-                                2% DEVELOPMENT</p>
+                                2% Marketing <br />
+                                1% Future Utility<br />
+                                1% Auto LP <br />
+                                2% Development</p>
                         </div>
                     </div> {/* col */}
                     <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="500">
@@ -30,10 +30,10 @@ function TOKENOMICS() {
                             <p>ETHEREUM ERC20</p>
                             <h4>NETWORK</h4>
                             <p>SELL TAX
-                                5% MARKETING <br />
-                                1% FUTURE UTILITY<br />
-                                1% AUTO LP<br />
-                                2% DEVELOPMENT</p>
+                                5% Marketing <br />
+                                1% Future Utility<br />
+                                1% Auto LP<br />
+                                2% Development</p>
                         </div>
                     </div> {/* col */}
                 </div> {/* .row */}
