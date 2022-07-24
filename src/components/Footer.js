@@ -23,17 +23,16 @@ function Foooter() {
                 <div className="foot_bottom">
                     <div className="footLogo">
                         <a href="#" className="FootBrand">
-                            <img src={logo} alt="Logo" />
+                            
                         </a>
                     </div>
                     <ul className="foot_menu">
-                        <li><a href="#">@FlashProtocol_</a></li>
-                        <li><a href="#">flashpro.ai</a></li>
-                        <li><a href="#">Documentation</a></li>
+                        <li><a href="#">@TBD</a></li>
+                        <li><a href="#">@TBD</a></li>
                         <li><a href="#">Terms and conditions</a></li>
                         <li><a href="#">Privacy Policy</a></li>
                         <li><a href="#">Documentation</a></li>
-                        <li><a href="#">Audits</a></li>
+                        <li><a href="#">Audit</a></li>
                     </ul>
                 </div>
             </div>

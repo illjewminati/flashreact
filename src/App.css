@@ -50,7 +50,7 @@ header.header_area {
   left: 0;
   top: 0;
   width: 100%;
-  background: rgb(255 255 255 / 70%);
+  background: rgba(48, 47, 47, 0.7);
 }
 
 .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
@@ -60,7 +60,7 @@ header.header_area {
 .nav-link {
   padding: 0 !important;
   margin-left: 40px;
-  color: #000;
+  color: rgb(223, 222, 222);
 }
 
 a.banarBtn,
@@ -73,7 +73,7 @@ a.AppLaunce.nav-link {
   z-index: 1;
   overflow: hidden;
   border-radius: 5px;
-  color: #000;
+  color: rgb(12, 12, 12);
 }
 
 a.banarBtn::after,

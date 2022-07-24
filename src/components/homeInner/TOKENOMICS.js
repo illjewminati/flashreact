@@ -10,25 +10,25 @@ function TOKENOMICS() {
                         <div className="token_box">
                             <p>1,000,000,000,000</p>
                             <h4>TOTAL TOKEN SUPPLY</h4>
-                            <p>2% MAX WALLET <br />
-                                2% MAX TRANSACTION</p>
+                            <p>TBD% MAX WALLET <br />
+                               TBD% MAX TRANSACTION</p>
                         </div>
                     </div> {/* col */}
                     <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
                         <div className="token_box">
-                            <p>$FLASH</p>
+                            <p>$TBD</p>
                             <h4>TOKEN SYMBOL</h4>
                             <p>2% MARKETING <br />
                                 1% FUTURE UTILITY<br />
-                                1% AUTO LP 2%<br />
-                                DEVELOPMENT</p>
+                                1% AUTO LP <br />
+                                2% DEVELOPMENT</p>
                         </div>
                     </div> {/* col */}
                     <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="500">
                         <div className="token_box">
                             <p>ETHEREUM ERC20</p>
                             <h4>NETWORK</h4>
-                            <p>4% MARKETING <br />
+                            <p>5% MARKETING <br />
                                 1% FUTURE UTILITY<br />
                                 1% AUTO LP<br />
                                 2% DEVELOPMENT</p>

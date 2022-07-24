@@ -7,7 +7,7 @@ function Roadmap() {
             <div className="container">
                 <div className="mission_content" data-aos="fade-right" data-aos-duration="1000" >
                     <h2>THE MISSION</h2>
-                    <p>The Flash Protocol is evolving the waycryptocurrencies are traded. By
+                    <p>To simply evolve the way cryptocurrencies are traded. By
                         seamlessly connecting users to the
                         utility through our dapps, we make
                         these tools accessible, opening up
@@ -20,27 +20,27 @@ function Roadmap() {
                     <ul className="evulation_map">
                         <li className="map_item" data-aos="fade-right" data-aos-duration="1000">
                             <h3>Q1 2022</h3>
-                            <p>Recruit core Dev team</p>
+                            <p>Recruit core Dev team of 9 engineers from various backgrounds</p>
                         </li>
                         <li className="map_item" data-aos="fade-left" data-aos-duration="1000">
                             <h3>Q2 2022</h3>
-                            <p>Build V1 Dapp & begin alpha testing</p>
+                            <p>Build V1 Dapp & select alpha testers</p>
                         </li>
                         <li className="map_item" data-aos="fade-right" data-aos-duration="1000">
                             <h3>Q3 2022</h3>
-                            <p>$FLASH Token Launch</p>
+                            <p>$TBD Token Launch & V1 Full Audit/KYC</p>
                         </li>
                         <li className="map_item" data-aos="fade-left" data-aos-duration="1000">
                             <h3>Q3 2022</h3>
-                            <p>Release V1.5 Dapp to <br />$FLASH holders (Beta)</p>
+                            <p>Release V1.5 Dapp to <br />Token holders (Beta)</p>
                         </li>
                         <li className="map_item" data-aos="fade-right" data-aos-duration="1000">
                             <h3>Q4 2022</h3>
-                            <p>Launch Flash Dao & Staking</p>
+                            <p>Launch "TBD" Dao & Staking</p>
                         </li>
                         <li className="map_item" data-aos="fade-left" data-aos-duration="1000">
                             <h3>Q1 2023 </h3>
-                            <p>Release “FlashPad” balancer LBP Launch pad</p>
+                            <p>Release Liquidity Bootstrapping Protocol Launch pad</p>
                         </li>
                     </ul>
                 </div>

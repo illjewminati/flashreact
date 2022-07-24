@@ -17,8 +17,8 @@ function Header() {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
                             <Nav.Link href="#SERVICES">SERVICES</Nav.Link>
-                            <Nav.Link href="#TOKENS">TOKENS</Nav.Link>
-                            <Nav.Link href="#ABOUTUS">ABOUT US</Nav.Link>
+                            <Nav.Link href="#TOKEN">TOKEN</Nav.Link>
+                            <Nav.Link href="#LITEPAPER">LITEPAPER</Nav.Link>
                             <Nav.Link href="#" className='AppLaunce'>LAUNCH APP</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>

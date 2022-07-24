@@ -5,16 +5,19 @@ function ETHEREUM() {
         <section className="ethereum_area" data-aos="fade-down" data-aos-duration="1000">
             <div className="container">
                 <div className="ethereum_cont">
-                    <h2>FLASH IN ETHEREUM 2.0</h2>
-                    <p>Since the transaction ordering process in
-                        ETH 2.0 will be the same as that of oW
+                    <h2>Flash Protocol in ETHEREUM 2.0</h2>
+                    <p>It is a common myth that 2.0
+                        will decrease gas prices on the network, 
+                        although this is simply not the case.
+                        Since the transaction ordering process in
+                        ETH 2.0 will be the same as that of PoW
                         Ethereum (ETH 1.0), the same principles
-                        will apply. The difference lies in ho has
+                        will apply. The difference lies in who has
                         ultimate control over the ordering,
-                        namely validators rather than iners.
+                        namely validators rather than miners.
                         Instead of tipping the miner, once ETH
                         2.0 is released it will then be the
-                        validator</p>
+                        validator.</p>
                 </div>
             </div>
         </section>

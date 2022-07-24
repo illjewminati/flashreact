@@ -11,28 +11,25 @@ function FAQ() {
                         <Accordion.Item eventKey="0">
                             <Accordion.Header>HOW CAN THE FLASH PROTOCOL HELP ME?</Accordion.Header>
                             <Accordion.Body>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                                minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                Users can privately and securely BUY/SELL/SWAP ERC20 tokens 
+                                without having to spend eth on gas ever again 
                             </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="1">
                             <Accordion.Header>DO I NEED CODING EXPERIENCE TO USE THESE TOOLS?</Accordion.Header>
                             <Accordion.Body>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                                minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                aliquip ex ea commodo consequat. Duis aute irure dolor in
-                            </Accordion.Body>
+                            No you do not! and therein lies the beauty of the Flash ecosystem. 
+                            We have already done the hard part of turning complex code into a simple 
+                            UI that anybody can use
+
+                        </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="2">
                             <Accordion.Header>HOW MUCH DO THESE UTILITIES COST?</Accordion.Header>
                             <Accordion.Body>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                                minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                aliquip ex ea commodo consequat. Duis aute irure dolor in
+                            There will be different Tiers and utilities available according to 
+                            how much $TBD token you hold. These details will be released shortly
+                            after launch
                             </Accordion.Body>
                         </Accordion.Item>
                     </Accordion>
