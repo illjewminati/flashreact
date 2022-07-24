@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "98ae0621221dc7a67b63",
+    "revision": "d04da74bfa3cbd315939",
     "url": "/flashreact/static/css/main.6897928d.chunk.css"
   },
   {
-    "revision": "98ae0621221dc7a67b63",
-    "url": "/flashreact/static/js/main.98ae0621.chunk.js"
+    "revision": "d04da74bfa3cbd315939",
+    "url": "/flashreact/static/js/main.d04da74b.chunk.js"
   },
   {
     "revision": "dca74a035a2640b5084a",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/flashreact/static/media/logo-2.4a04060c.svg"
   },
   {
-    "revision": "8740d67298ab87abd8500e13ae2bbc45",
+    "revision": "0a0ea8e0de16c2392da7c32ca8e7efa6",
     "url": "/flashreact/index.html"
   }
 ];
