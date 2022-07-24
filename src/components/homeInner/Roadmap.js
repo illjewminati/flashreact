@@ -39,8 +39,8 @@ function Roadmap() {
                             <p>Launch "TBD" Dao & Staking</p>
                         </li>
                         <li className="map_item" data-aos="fade-left" data-aos-duration="1000">
-                            <h3>Q1 2023 </h3>
-                            <p>Release Liquidity Bootstrapping Protocol Launch pad</p>
+                            <h3>Q4 2022 </h3>
+                            <p>First community DAO vote on future utility</p>
                         </li>
                     </ul>
                 </div>
