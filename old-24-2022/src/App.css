@@ -63,49 +63,12 @@ header.header_area {
   color: #000;
 }
 
-a.banarBtn,
 a.AppLaunce.nav-link {
-  display: inline-block;
-  padding: 12px 25px !important;
+  padding: 15px 28px !important;
   font-weight: bold;
-  transition: .3s ease all;
-  position: relative;
-  z-index: 1;
-  overflow: hidden;
-  border-radius: 5px;
-  color: #000;
-}
-
-a.banarBtn::after,
-a.AppLaunce.nav-link::after {
-  content: "";
   background: #41FF91;
-  left: 0;
-  top: 0;
-  width: 200%;
-  height: 100%;
-  display: block;
-  position: absolute;
-  z-index: -1;
-  background-image: linear-gradient(to right,#41FF91,#66d280,#41FF91);
-  border-radius: 5px;
-  transition: .2s ease all;
-}
-
-a.banarBtn:hover:after,
-a.AppLaunce.nav-link:hover::after {
-  left: -100%;
-}
-
-a.banarBtn:hover,
-a.AppLaunce.nav-link:hover {
-  background: #41ff919c;
-  box-shadow: 0 5px 40px rgba(117,237,103,.5)!important;
-}
-
-a.banarBtn:active,
-a.AppLaunce.nav-link:active {
-  transform: scale(.9);
+  border: 2px solid #41FF91;
+  transition: .3s ease all;
 }
 
 .navbar-nav {
@@ -114,6 +77,10 @@ a.AppLaunce.nav-link:active {
 
 nav.navbar {
   padding: 18px 0 !important;
+}
+
+a.AppLaunce.nav-link:hover {
+  background: #41ff919c;
 }
 
 section.banar_area {
@@ -147,7 +114,7 @@ img.banarBg {
   line-height: 29px;
   margin-bottom: 40px;
 }
-/* 
+
 a.banarBtn {
   font-weight: 700;
   font-size: 16px;
@@ -161,7 +128,7 @@ a.banarBtn {
 
 a.banarBtn:hover {
   background: #41ff91b5;
-} */
+}
 
 section.mission_evolution {
   padding: 100px 0;

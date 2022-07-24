@@ -2,7 +2,7 @@ import React from 'react';
 
 function ETHEREUM() {
     return (
-        <section className="ethereum_area" data-aos="fade-down" data-aos-duration="1000">
+        <section className="ethereum_area">
             <div className="container">
                 <div className="ethereum_cont">
                     <h2>FLASH IN ETHEREUM 2.0</h2>

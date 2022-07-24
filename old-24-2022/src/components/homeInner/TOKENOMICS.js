@@ -6,7 +6,7 @@ function TOKENOMICS() {
             <div className="container">
                 <h2 className="title">TOKENOMICS</h2>
                 <div className="row">
-                    <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="100">
+                    <div className="col-lg-4 col-md-6 col-sm-12">
                         <div className="token_box">
                             <p>1,000,000,000,000</p>
                             <h4>TOTAL TOKEN SUPPLY</h4>
@@ -14,7 +14,7 @@ function TOKENOMICS() {
                                 2% MAX TRANSACTION</p>
                         </div>
                     </div> {/* col */}
-                    <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
+                    <div className="col-lg-4 col-md-6 col-sm-12">
                         <div className="token_box">
                             <p>$FLASH</p>
                             <h4>TOKEN SYMBOL</h4>
@@ -24,7 +24,7 @@ function TOKENOMICS() {
                                 DEVELOPMENT</p>
                         </div>
                     </div> {/* col */}
-                    <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="500">
+                    <div className="col-lg-4 col-md-6 col-sm-12">
                         <div className="token_box">
                             <p>ETHEREUM ERC20</p>
                             <h4>NETWORK</h4>

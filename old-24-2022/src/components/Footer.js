@@ -10,7 +10,7 @@ import logo from '../img/logo-2.svg';
 
 function Foooter() {
     return ( 
-        <footer className="footer_area" data-aos="fade-up" data-aos-duration="1000">
+        <footer className="footer_area">
             <div className="container">
                 <div className="footer_social">
                     <ul className='social_links'>
