@@ -38,10 +38,6 @@ function Roadmap() {
                             <h3>Q4 2022</h3>
                             <p>Launch "TBD" Dao & Staking</p>
                         </li>
-                        <li className="map_item" data-aos="fade-left" data-aos-duration="1000">
-                            <h3>Q4 2022 </h3>
-                            <p>First community DAO vote on future utility</p>
-                        </li>
                     </ul>
                 </div>
             </div>
