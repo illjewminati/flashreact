@@ -3,7 +3,7 @@ import React from 'react';
 
 function Roadmap() {
     return (
-        <section className="mission_evolution" >
+        <section className="mission_evolution" id="roadmap">
             <div className="container">
                 <div className="mission_content" data-aos="fade-right" data-aos-duration="1000" >
                     <h2>THE MISSION</h2>

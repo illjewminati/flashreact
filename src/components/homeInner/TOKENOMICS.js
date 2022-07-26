@@ -2,7 +2,7 @@ import React from 'react';
 
 function TOKENOMICS() {
     return (
-        <section className="tokenomic_area">
+        <section className="tokenomic_area" id="tokenomics">
             <div className="container">
                 <h2 className="title">TOKENOMICS</h2>
                 <div className="row">

@@ -3,7 +3,7 @@ import Accordion from 'react-bootstrap/Accordion';
 
 function FAQ() {
     return (
-        <section className="faq_area"  data-aos="fade-right" data-aos-duration="1000">
+        <section className="faq_area"  data-aos="fade-right" data-aos-duration="1000" id="services">
             <div className="container">
                 <div className="faqContent">
                     <h2>Q & A</h2>
