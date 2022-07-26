@@ -17,7 +17,7 @@ function Header() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
-                        <Link to="services" spy={true} smooth={true} offset={-120} duration={500}> <Nav.Link>SERVICES</Nav.Link></Link>   
+                        <Link to="services" spy={true} smooth={true} offset={-120} duration={500}> <Nav.Link>Q & A</Nav.Link></Link>   
                           <Link to="tokenomics" spy={true} smooth={true} offset={-120} duration={500}><Nav.Link >TOKEN</Nav.Link></Link>  
                            <Nav.Link href="./litepaper/NOGAS V1 LITEPAPER.pdf" target="_blank"> LITEPAPER</Nav.Link>    
                             <Nav.Link href="#" className='AppLaunce'>LAUNCH APP</Nav.Link>
