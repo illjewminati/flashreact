@@ -6,6 +6,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 // Logo
 import Logo from '../img/logo.svg';
+import { Link } from 'react-scroll';
 
 function Header() {
     return (
@@ -16,9 +17,9 @@ function Header() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
-                            <Nav.Link href="#SERVICES">SERVICES</Nav.Link>
-                            <Nav.Link href="#TOKEN">TOKEN</Nav.Link>
-                            <Nav.Link href="#LITEPAPER">LITEPAPER</Nav.Link>
+                        <Link to="services" spy={true} smooth={true} offset={-120} duration={500}> <Nav.Link>SERVICES</Nav.Link></Link>   
+                          <Link to="tokenomics" spy={true} smooth={true} offset={-120} duration={500}><Nav.Link >TOKEN</Nav.Link></Link>  
+                           <Nav.Link href="./litepaper/NOGAS V1 LITEPAPER.pdf" target="_blank"> LITEPAPER</Nav.Link>    
                             <Nav.Link href="#" className='AppLaunce'>LAUNCH APP</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
