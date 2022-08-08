@@ -16,8 +16,8 @@ function Foooter() {
                     <ul className='social_links'>
                         <li><a href="#"><img src={Facebook} alt="Icons" /></a></li>
                         <li><a href="#"><img src={Inst} alt="Icons" /></a></li>
-                        <li><a href="#"><img src={Twiter} alt="Icons" /></a></li>
-                        <li><a href="#"><img src={Youtube} alt="Icons" /></a></li>
+                        <li><a href="https://twitter.com/_nogas"><img src={Twiter} alt="Icons" /></a></li>
+                        <li><a href=""><img src={Youtube} alt="Icons" /></a></li>
                     </ul>
                 </div>
                 <div className="foot_bottom">
