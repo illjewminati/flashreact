@@ -52,7 +52,11 @@ header.header_area {
   width: 100%;
   background: rgba(28, 27, 27, 0.724);
 }
+.header_social{
+  font-size: 27px;
+  color: #41FF91;
 
+}
 .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
   max-width: 1140px;
 }
@@ -336,9 +340,15 @@ ul.social_links {
     align-items: center;
     padding: 0;
     justify-content: center;
-    max-width: 465px;
+    max-width:600px;
     margin: 0 auto;
     justify-content: space-between;
+}
+.social_links .icon{
+    color: #41FF91;
+    font-size: 35px;
+
+
 }
 
 .footer_social {
