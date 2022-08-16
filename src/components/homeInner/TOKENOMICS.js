@@ -10,13 +10,14 @@ function TOKENOMICS() {
                         <div className="token_box">
                             <p>1,000,000,000,000</p>
                             <h4>TOTAL TOKEN SUPPLY</h4>
-                            <p>TBD% MAX WALLET <br />
-                               TBD% MAX TRANSACTION</p>
+                            <p>2% MAX WALLET <br />
+                            .5% MAX TRANSACTION</p>
                         </div>
                     </div> {/* col */}
                     <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
                         <div className="token_box">
-                            <p>$TBD</p>
+                            <p>PROTOCOL ZERO <br />
+                            (ZRO)</p>
                             <h4>TOKEN SYMBOL</h4>
                             <p>BUY TAX<br />
                                 2% Marketing <br />

@@ -9,7 +9,7 @@ function FAQ() {
                     <h2>Q & A</h2>
                     <Accordion defaultActiveKey="">
                         <Accordion.Item eventKey="0">
-                            <Accordion.Header>HOW CAN THE NOGAS PROTOCOL HELP ME?</Accordion.Header>
+                            <Accordion.Header>HOW CAN PROTOCOL ZERO HELP ME?</Accordion.Header>
                             <Accordion.Body>
                                 Users can privately and securely BUY/SELL/SWAP ERC20 tokens 
                                 without having to spend eth on gas ever again 
@@ -18,7 +18,7 @@ function FAQ() {
                         <Accordion.Item eventKey="1">
                             <Accordion.Header>DO I NEED CODING EXPERIENCE TO USE THESE TOOLS?</Accordion.Header>
                             <Accordion.Body>
-                            No you do not! and therein lies the beauty of the NOGAS ecosystem. 
+                            No you do not! and therein lies the beauty of the ZRO ecosystem. 
                             We have already done the hard part of turning complex code into a simple 
                             UI that anybody can use
 
