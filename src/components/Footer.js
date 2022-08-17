@@ -30,8 +30,8 @@ function Foooter() {
                         </a>
                     </div>
                     <ul className="foot_menu">
-                        <li><a href="#">TERMS AND CONDITIONS</a></li>
-                        <li><a href="#">PRIVACY POLICY</a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#">TEAM@PROTOCOLZERO.APP</a></li>
                         <li><a href="#">LITEPAPER</a></li>
                         <li><a href="#">AUDIT</a></li>
                     </ul>
