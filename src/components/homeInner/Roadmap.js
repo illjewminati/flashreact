@@ -28,14 +28,14 @@ function Roadmap() {
                         </li>
                         <li className="map_item" data-aos="fade-right" data-aos-duration="1000">
                             <h3>Q3 2022</h3>
-                            <p>$TBD Token Launch & V1 Full Audit/KYC</p>
+                            <p>$ZRO Token Launch & V1 Full Audit/KYC</p>
                         </li>
                         <li className="map_item" data-aos="fade-left" data-aos-duration="1000">
-                            <h3>Q3 2022</h3>
+                            <h3>Q4 2022</h3>
                             <p>Release V1.5 Dapp to <br />Token holders (Beta)</p>
                         </li>
                         <li className="map_item" data-aos="fade-right" data-aos-duration="1000">
-                            <h3>Q4 2022</h3>
+                            <h3>Q4.5 2022</h3>
                             <p>Deploy Phase II</p>
                         </li>
                     </ul>
