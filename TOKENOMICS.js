@@ -11,7 +11,7 @@ function TOKENOMICS() {
                             <p>1,000,000,000,000</p>
                             <h4>TOTAL TOKEN SUPPLY</h4>
                             <p>2% MAX WALLET <br />
-                            .5% MAX TRANSACTION</p>
+                               2% MAX TRANSACTION</p>
                         </div>
                     </div> {/* col */}
                     <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
