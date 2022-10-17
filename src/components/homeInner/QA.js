@@ -11,7 +11,7 @@ function FAQ() {
                         <Accordion.Item eventKey="0">
                             <Accordion.Header>HOW CAN PROTOCOL ZERO HELP ME?</Accordion.Header>
                             <Accordion.Body>
-                                Users can privately and securely BUY/SELL/SWAP ERC20 tokens 
+                                Users can privately and securely SWAP ERC20 tokens 
                                 without having to spend eth on gas ever again 
                             </Accordion.Body>
                         </Accordion.Item>
