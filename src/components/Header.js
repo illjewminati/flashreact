@@ -11,8 +11,8 @@ import { Link } from 'react-scroll';
 function Header() {
     return (
         <header className="header_area">
-            <div className='navbar navbar-expand-lg navbar-dark'>
-                <Container>s
+            <Navbar expand='lg' className='navbar-dark'>
+                <Container>
                     <Navbar.Brand href="#home"><img src={Logo} alt="Logo" />
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -38,7 +38,7 @@ function Header() {
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
-            </div>
+            </Navbar>
         </header>
     );
 }
