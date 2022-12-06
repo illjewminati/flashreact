@@ -33,8 +33,7 @@ function Foooter() {
                     <ul className="foot_menu">
                         <li><a href="#"></a></li>
                         <li><a href="#">PROTOCOL.ZRO@PROTON.ME</a></li>
-                        <li><a href="#">LITEPAPER</a></li>
-                        <li><a href="#">AUDIT</a></li>
+                       
                     </ul>
                 </div>
             </div>
