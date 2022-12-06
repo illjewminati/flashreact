@@ -37,7 +37,7 @@ function Foooter() {
                     </div>
                     <ul className="foot_menu">
                         <li><a href="#"></a></li>
-                        <li><a href="#">Protocol.Zro@proton.me</a></li>
+                        <li><a href="#">PROTOCOL.ZRO@proton.me</a></li>
                         <li><a href="#">LITEPAPER</a></li>
                         <li><a href="#">AUDIT</a></li>
                     </ul>
