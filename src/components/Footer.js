@@ -18,7 +18,7 @@ function Foooter() {
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="">
+                            <a target="_blank" href="https://www.youtube.com/channel/UC2ikx5j__kGKzjDvh_0eEIg">
                                 <i className='fab fa-youtube icon'/>
                             </a>
                         </li>
