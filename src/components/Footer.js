@@ -1,9 +1,5 @@
 import React from 'react';
-
-import Facebook from '../img/social/fb.svg';
-import Inst from '../img/social/inst.svg';
-import Twiter from '../img/social/twi.svg';
-
+import Twitter from '../img/social/twi.svg';
 import Youtube from '../img/social/you.svg';
 import logo from '../img/logo-2.svg';
 
@@ -13,9 +9,8 @@ function Foooter() {
             <div className="container">
                 <div className="footer_social">
                     <ul className='social_links'>
-                        <li><a target="_blank" href="#"><i className=' fab fa-facebook icon'/></a></li>
-                        <li><a target ="_blank" href="#"><i className='fab fa-instagram icon'/></a></li>
-                        <li><a target="_blank" href="https://twitter.com/_nogas"><i className='fab fa-twitter icon'/></a></li>
+                       
+                     <li><a target="_blank" href="https://twitter.com/_nogas"><i className='fab fa-twitter icon'/></a></li>
                         <li><a target="_blank" href="https://medium.com/@zrodev/protocol-zero-dcf8de91f0e1"><i className='fab fa-medium icon'/></a></li>
                         <li>
                             <a target="_blank" href="https://t.me/nogastoken">
