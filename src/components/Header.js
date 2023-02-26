@@ -50,7 +50,7 @@ export default class Header extends Component {
                                     </a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="AppLaunce nav-link" aria-current="page" href="swap.nogas.pro"  ref='noreferrer'>
+                                    <a className="AppLaunce nav-link" aria-current="page" href="https://www.swap.nogas.pro"  ref='noreferrer'>
                                         LAUNCH APP
                                     </a>
                                 </li>
