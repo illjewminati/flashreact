@@ -50,7 +50,7 @@ export default class Header extends Component {
                                     </a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="AppLaunce nav-link" aria-current="page" href="https://tangerine-gecko-1284ca.netlify.app/swap"  ref='noreferrer'>
+                                    <a className="AppLaunce nav-link" aria-current="page" href="https://app.nogas.pro/swap"  ref='noreferrer'>
                                         LAUNCH APP
                                     </a>
                                 </li>
