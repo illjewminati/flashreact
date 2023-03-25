@@ -16,7 +16,7 @@ function Banar() {
                         </div>
                     </div>
                     <div className="col-md-4">
-                    <iframe className='card-img' height="390" title='my frame' frameborder="0" allow="clipboard-read *; clipboard-write *; web-share *; accelerometer *; autoplay *; camera *; gyroscope *; payment *; geolocation *" src="https://flooz.trade/embed/trade?swapDisabled=false&swapToTokenAddress=0xd79F43113B22D1eA9F29cfcC7BB287489F8EE5e0&swapLockToToken=true&onRampDisabled=false&onRampAsDefault=false&onRampDefaultAmount=200&network=eth&lightMode=false&primaryColor=%2320cf5b&roundedCorners=32&padding=20" ></iframe>
+                    
                     </div>
                 </div>
 

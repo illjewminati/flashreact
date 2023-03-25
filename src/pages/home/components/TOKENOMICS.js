@@ -10,19 +10,19 @@ function TOKENOMICS() {
                         <div className="token_box">
                             <p>100,000,000,000</p>
                             <h4>TOTAL TOKEN SUPPLY</h4>
-                            <p>2% MAX WALLET <br />
-                               2% MAX TRANSACTION <br />
+                            <p>2% Max Wallet <br />
+                               2% Max Transaction <br />
                                6% Private Offering <br />  
                                25% Public IDO via Yasha Dao<br />
                                25% Held in multi sig for future CEX <br />
-                               44% UNISWAP LP</p>
+                               44% Uniswap LP</p>
 
                         </div>
                     </div> {/* col */}
                     <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
                         <div className="token_box">
-                            <p>PROTOCOL ZERO <br />
-                            (ZRO)</p>
+                            <p>PROTOCOL ZERO (ZRO)</p>
+                            
                             <h4>TOKEN SYMBOL</h4>
                             <p>BUY TAX<br />
                                 2% Marketing <br />
