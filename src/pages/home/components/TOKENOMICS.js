@@ -11,7 +11,12 @@ function TOKENOMICS() {
                             <p>100,000,000,000</p>
                             <h4>TOTAL TOKEN SUPPLY</h4>
                             <p>2% MAX WALLET <br />
-                               2% MAX TRANSACTION</p>
+                               2% MAX TRANSACTION <br />
+                               6% Private Offering <br />  
+                               25% Public IDO via Yasha Dao<br />
+                               25% Held in multi sig for future CEX <br />
+                               44% UNISWAP LP</p>
+
                         </div>
                     </div> {/* col */}
                     <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
@@ -31,7 +36,7 @@ function TOKENOMICS() {
                             <p>ETHEREUM ERC20</p>
                             <h4>NETWORK</h4>
                             <p>SELL TAX<br />
-                                5% Marketing<br />
+                                2% Marketing<br />
                                 1% Future Utility<br />
                                 1% Auto LP<br />
                                 2% Development</p>

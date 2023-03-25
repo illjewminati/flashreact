@@ -5,20 +5,8 @@ function ETHEREUM() {
         <section className="ethereum_area" data-aos="fade-down" data-aos-duration="1000">
             <div className="container">
                 <div className="ethereum_cont">
-                    <h2>PROTOCOL ZERO in ETHEREUM 2.0</h2>
-                    <p>It is a common myth that 2.0
-                        will decrease gas prices on the network, 
-                        although this is simply not the case.
-                        Since the transaction ordering process in
-                        ETH 2.0 will be the same as that of PoW
-                        Ethereum (ETH 1.0), the same principles
-                        will apply. The difference lies in who has
-                        ultimate control over the ordering,
-                        namely validators rather than miners.
-                        Instead of tipping the miner, once ETH
-                        2.0 is released it will then be the
-                        validator but the purpose of Protocol Zero remains
-                        the same</p>
+                    <h2>Protocol Zero & Account Abstraction</h2>
+                    <p>Account abstraction is a concept that allows users to send transactions without having to worry about the underlying blockchain technology. Leveraging private relays and account abstraction, users can use any token as gas to pay for transactions privately and securely, which can reduce fees and simplify the transaction process. This can also allow for greater flexibility in the types of transactions that can be performed.</p>
                 </div>
             </div>
         </section>
