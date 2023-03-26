@@ -4,7 +4,7 @@ import HomeBanar from '../../../img/banar.png';
 
 function Banar() {
     return (
-        <section className="banar_area">
+        <section className="banar_area" id="home">
             <img src={HomeBanar} alt="Banar" className='banarBg' />
             <div className="container">
                 <div className="row">
@@ -16,7 +16,7 @@ function Banar() {
                         </div>
                     </div>
                     <div className="col-md-4">
-                    
+
                     </div>
                 </div>
 
