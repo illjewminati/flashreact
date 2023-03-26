@@ -10,7 +10,8 @@ function TOKENOMICS() {
                         <div className="token_box">
                             <p>100,000,000,000</p>
                             <h4>TOTAL TOKEN SUPPLY</h4>
-                            <p>2% Max Wallet <br />
+                            <p>LAUNCH ALLOCATION<br />
+                               2% Max Wallet <br />
                                2% Max Transaction <br />
                                6% Private Offering <br />  
                                25% Public IDO via Yasha Dao<br />
